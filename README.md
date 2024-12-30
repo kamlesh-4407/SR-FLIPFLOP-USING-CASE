@@ -34,7 +34,11 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 
 **Procedure**
 
-/* write all the steps invloved */
+1. Type the program in Quartus software.
+2. Compile and run the program.
+3. Generate the RTL schematic and save the logic diagram.
+4. Create nodes for inputs and outputs to generate the timing diagram.
+5. For different input combinations generate the timing diagram.
 
 **PROGRAM**
 
@@ -66,8 +70,9 @@ endmodule
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
 
-![391826445-18e997c8-e30e-4d54-9965-35e2001658f7](https://github.com/user-attachments/assets/76a3bc9d-0fa8-4d05-bb93-20cc36e64847)
+![image](https://github.com/user-attachments/assets/9aa729c0-29d5-48d7-b587-5758a95f987d)
 
 
-**RESULTS**
+**RESULT**
+
 SR flip flop implemented successfully and truth table verified.
